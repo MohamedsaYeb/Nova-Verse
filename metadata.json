@@ -1,0 +1,5 @@
+{
+  "name": "Physics Quiz - Second Secondary Grade",
+  "description": "An interactive physics quiz for second-grade secondary students (first term) based on questions expected by Eng. Mohamed Makram. The app presents 20 questions in a real exam format, allowing users to select answers and view their results immediately upon completion.",
+  "requestFramePermissions": []
+}
